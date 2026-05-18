@@ -3,3 +3,4 @@
 # Max: add payment UI logic
 # Rizky: add payment backend logic
 
+# add logging system
